@@ -50,8 +50,8 @@
         dt.Columns.Add("Level Karyawan", GetType(String))
         dt.Columns.Add("Gaji Pokok", GetType(Integer))
         dt.Columns.Add("Potongan", GetType(Integer))
-        dt.Columns.Add("Periode", GetType(String))
         dt.Columns.Add("Gaji Bersih", GetType(String))
+        dt.Columns.Add("Periode", GetType(String))
         dt.Columns.Add("Jenis Kelamin", GetType(String))
         dt.Columns.Add("Lama Bekerja", GetType(Integer))
         dt.Columns.Add("Status", GetType(String))
@@ -179,8 +179,8 @@
                 ComboBox3.Text = .Item(3, .CurrentRow.Index).Value.ToString
                 TextBox8.Text = .Item(4, .CurrentRow.Index).Value.ToString
                 TextBox9.Text = .Item(5, .CurrentRow.Index).Value.ToString
-                MaskedTextBox1.Text = .Item(6, .CurrentRow.Index).Value.ToString
-                TextBox5.Text = .Item(7, .CurrentRow.Index).Value.ToString
+                MaskedTextBox1.Text = .Item(7, .CurrentRow.Index).Value.ToString
+                TextBox5.Text = .Item(6, .CurrentRow.Index).Value.ToString
                 gender = .Item(8, .CurrentRow.Index).Value.ToString
                 TextBox4.Text = .Item(9, .CurrentRow.Index).Value.ToString
                 ComboBox1.Text = .Item(10, .CurrentRow.Index).Value.ToString

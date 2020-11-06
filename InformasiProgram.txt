@@ -1,0 +1,3 @@
+TM VB
+cara kerja program sesuai dengan video
+tanpa database,hanya menggunakan datatable dan datagridview

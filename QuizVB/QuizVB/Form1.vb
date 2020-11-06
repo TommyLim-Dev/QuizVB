@@ -92,7 +92,7 @@
                 TextBox4.Enabled = True
                 TextBox5.Enabled = True
                 TextBox7.Enabled = True
-                TextBox8.Enabled = True
+                TextBox8.Enabled = False
                 TextBox9.Enabled = True
                 ComboBox1.Enabled = True
                 RadioButton1.Enabled = True
@@ -129,8 +129,8 @@
                 drw("Level Karyawan") = ComboBox3.Text
                 drw("Gaji Pokok") = TextBox8.Text
                 drw("Potongan") = TextBox9.Text
-                drw("Periode") = MaskedTextBox1.Text
                 drw("Gaji Bersih") = TextBox5.Text
+                drw("Periode") = MaskedTextBox1.Text
                 drw("Jenis Kelamin") = gender
                 drw("Lama Bekerja") = TextBox4.Text
                 drw("Status") = ComboBox1.Text
@@ -148,7 +148,7 @@
                 TextBox4.Enabled = True
                 TextBox5.Enabled = True
                 TextBox7.Enabled = True
-                TextBox8.Enabled = True
+                TextBox8.Enabled = False
                 TextBox9.Enabled = True
                 ComboBox1.Enabled = True
                 RadioButton1.Enabled = True
@@ -179,8 +179,8 @@
                 ComboBox3.Text = .Item(3, .CurrentRow.Index).Value.ToString
                 TextBox8.Text = .Item(4, .CurrentRow.Index).Value.ToString
                 TextBox9.Text = .Item(5, .CurrentRow.Index).Value.ToString
-                MaskedTextBox1.Text = .Item(7, .CurrentRow.Index).Value.ToString
-                TextBox5.Text = .Item(6, .CurrentRow.Index).Value.ToString
+                MaskedTextBox1.Text = .Item(6, .CurrentRow.Index).Value.ToString
+                TextBox5.Text = .Item(7, .CurrentRow.Index).Value.ToString
                 gender = .Item(8, .CurrentRow.Index).Value.ToString
                 TextBox4.Text = .Item(9, .CurrentRow.Index).Value.ToString
                 ComboBox1.Text = .Item(10, .CurrentRow.Index).Value.ToString

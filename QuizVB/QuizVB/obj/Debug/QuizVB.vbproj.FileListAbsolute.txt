@@ -1,0 +1,12 @@
+D:\Semester III\VB.NET\Quiz\QuizVB\QuizVB\bin\Debug\QuizVB.exe.config
+D:\Semester III\VB.NET\Quiz\QuizVB\QuizVB\bin\Debug\QuizVB.exe
+D:\Semester III\VB.NET\Quiz\QuizVB\QuizVB\bin\Debug\QuizVB.pdb
+D:\Semester III\VB.NET\Quiz\QuizVB\QuizVB\bin\Debug\QuizVB.xml
+D:\Semester III\VB.NET\Quiz\QuizVB\QuizVB\obj\Debug\QuizVB.vbprojAssemblyReference.cache
+D:\Semester III\VB.NET\Quiz\QuizVB\QuizVB\obj\Debug\QuizVB.Form1.resources
+D:\Semester III\VB.NET\Quiz\QuizVB\QuizVB\obj\Debug\QuizVB.Resources.resources
+D:\Semester III\VB.NET\Quiz\QuizVB\QuizVB\obj\Debug\QuizVB.vbproj.GenerateResource.cache
+D:\Semester III\VB.NET\Quiz\QuizVB\QuizVB\obj\Debug\QuizVB.vbproj.CoreCompileInputs.cache
+D:\Semester III\VB.NET\Quiz\QuizVB\QuizVB\obj\Debug\QuizVB.exe
+D:\Semester III\VB.NET\Quiz\QuizVB\QuizVB\obj\Debug\QuizVB.xml
+D:\Semester III\VB.NET\Quiz\QuizVB\QuizVB\obj\Debug\QuizVB.pdb
